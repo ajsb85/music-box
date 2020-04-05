@@ -21,7 +21,7 @@ This code was heavily inspired by [@JohnPhamous's strava-box](https://github.com
 2. Go to your fork's `Settings` > `Secrets` > `Add a new secret` for each environment secret (below)
 
 ## 🤫 Environment Secrets
-- **GIST_ID:** The ID portion from your gist url `https://gist.github.com/<github username>/`**`6d5f84419863089a167387da62dd7081`**.
+- **GIST_ID:** The ID portion from your gist url `https://gist.github.com/<github username>/`**`ece52c1442936217fd8e4ea875474145`**.
 - **GH_TOKEN:** The GitHub token generated above.
 - **LASTFM_KEY:** The API key you got from creating a Last.fm API account.
 - **LFMUSERNAME:** Your Last.fm username.
